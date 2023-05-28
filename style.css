@@ -1,5 +1,9 @@
 body {
     font-size: 15pt;
+    background-image: url(shutback.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
 }
 .text , .t {
   align-content: center;
@@ -11,4 +15,10 @@ body {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+.hide {
+ display: none;
+}
+.red {
+  color: red;
 }
